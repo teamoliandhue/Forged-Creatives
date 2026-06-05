@@ -146,7 +146,49 @@ When in doubt, ask: "Do you want me to mentor you through this, or do you want m
 
 ---
 
-### Entry 003 — [next lesson will be added here]
+### Entry 003 — The Brand-Color-As-Ad Rule
+**Source:** Diligent Studios ad portfolio 2026 — observed across 11 B2B SaaS brands (Pay//, Birdie, HiBob, SOCi, Settle, OptiMonk, Aviatrix, Instantly, Relyance AI, TilityAPI, 6ix)
+**Lesson:** Pick ONE saturated brand background color and use it as the full background of every ad in the campaign. The color becomes the brand on the feed before any word is read. Across hundreds of impressions, this trains the viewer to recognize the brand by color alone. Treat the brand color as the most important creative decision — not an accent.
+**Tags:** brand-color, visual-identity, recognition, B2B-SaaS, system
+**Operational rule:** Before writing a single ad, lock the brand background color. Every variant in the campaign uses that one color (or 2 close variants max) as the dominant field.
+
+---
+
+### Entry 004 — Type-as-Hero Beats Image-as-Hero (in B2B)
+**Source:** Diligent Studios portfolio — Settle, HiBob, OptiMonk
+**Lesson:** In B2B feeds, ads where the bold typography IS the entire visual often beat ads with photography or product shots. Lower production cost, faster turnaround, and the message lands in 0.5s because there's nothing else to look at. "WHAT THE ST★CK?", "NO MORE Trial and Error", "HELLO NEW YEAR, GOODBYE PAYROLL STRESS" are entire ads — no imagery needed. Reserve imagery for when it adds genuine information (product UI, real customer face, comparison visual) — not as decoration.
+**Tags:** typography, visual-design, B2B, type-as-hero, hierarchy
+**Operational rule:** Default to type-as-hero in B2B unless an image carries information the type cannot. Imagery is justified only if it shows the product working, names a real customer, or completes a side-by-side comparison.
+
+---
+
+### Entry 005 — The 6-Angle Campaign Rule
+**Source:** Diligent Studios portfolio — observed pattern across all 11 brand campaigns
+**Lesson:** A single campaign should ship at least 6 ads across DIFFERENT angles. Diligent's standard mix per brand:
+  1. Stat-driven  ("$1.32B")
+  2. UI screenshot
+  3. Testimonial card
+  4. Before/after comparison
+  5. Themed character or recurring device
+  6. Question-hook headline
+  7. Annotated-screenshot (real, marked-up look)
+  8. Audience call-out by role
+
+Different angles catch different buyer personalities (this extends **Entry 001 — Angle vs Framework**). Six angles is the working minimum to find which doorway your audience actually enters through.
+**Tags:** angles, diversification, campaign-planning, B2B-SaaS, testing
+**Operational rule:** For any new brand campaign, produce ads across at least 6 distinct angles before testing. Never ship 6 versions of the same angle.
+
+---
+
+### Entry 006 — The Signature Device — Theme Campaigns That Stack Memory
+**Source:** Diligent Studios — SOCi "Villains of Local Marketing", HiBob seasonal drops, Birdie illustrated cast
+**Lesson:** Beyond individual ad performance, the strongest brands run THEME campaigns — a recurring character, metaphor, season, or universe that ties multiple ads together. SOCi's "Villains of Local Marketing" with cartoon monsters. HiBob's holiday "payroll stress off" theme. Birdie's recurring illustrated characters. A theme creates campaign-level memorability — the viewer remembers not one ad but the universe of ads. Themes compound brand recall in ways single-shot ads never can.
+**Tags:** theme-campaigns, memorability, character-design, brand-universe, recall
+**Operational rule:** For brands with sustained ad spend (3+ months), develop a signature device — a character, metaphor, or theme that recurs across multiple ads. The signature is the brand's "show," not its commercials.
+
+---
+
+### Entry 007 — [next lesson will be added here]
 
 ---
 
